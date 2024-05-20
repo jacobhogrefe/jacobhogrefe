@@ -1,9 +1,9 @@
 ### Hi there 👋
 Hello! My name is Jacob Hogrefe, and I am a senior Computer Science major in the 3+1 Cybersecurity accelerated program at Quinnipiac University. Throughout my educational experience at Quinnipiac, I have been rigorously challenged to produce the highest quality of work possible, and it shows not only in my completed projects, but in my day to day life as well. I'm always eager to explore and learn new and interesting technologies, as well as challenge myself and go outside of my comfort zone.
 
-- 🔭 I’m currently working on a neural network to determine which direction someone is looking
-- 🌱 I’m currently learning Minecraft mod development, and creating my own unique dimension!
-- 🤔 I’m looking for help with anything web developmnent related, and the technologies associated with them.
+- 🔭 I’m currently working on nothing! Ideally I'd want to start working in C/C++ to learn a new programming language.
+- 🌱 I’m currently learning C/C++!
+- 🤔 I’m looking for help with anything C/C++ related. 
 
 <!--
 **jacobhogrefe/jacobhogrefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
